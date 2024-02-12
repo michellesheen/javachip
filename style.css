@@ -9,7 +9,7 @@ body {
 }
 
 .button {
-  background-color: #206a8c;
+  background-color: #FFC0CB;
   border: none;
   border-radius: 5px;
   color: #fff;
@@ -20,7 +20,7 @@ body {
 }
 
 .button:hover {
-  background-color: #0f4057;
+  background-color: #AA336A;
   cursor: pointer;
 }
 
